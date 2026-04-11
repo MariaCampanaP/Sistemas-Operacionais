@@ -1,2 +1,39 @@
-# Sistemas-Operacionais
-Repositório contendo exercícios da disciplina de Sistemas Operacionais
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=542d17&reversal=false"/>
+
+# ☕︎ Sistemas Operacionais
+
+Repositório contendo exercícios da disciplina **Sistemas Operacionais** do terceiro ano de **Ciência da Computação** na UNESPAR.
+
+## ☕︎ Sobre o Repositório
+
+Este repositório reúne implementações de conceitos fundamentais de **Sistemas Operacionais**, abordando tópicos como:
+
+- *Criação de processos com fork()*
+- *Gerenciamento de processos (process management)*
+- *Execução concorrente (concorrência)*
+- *Sincronização de processos com wait()*
+- *Identificação de processos (pai e filho)*
+- *Execução de programas externos com exec()*
+- *Substituição de processos (process replacement)*
+
+# ☕︎ Objetivo
+
+Os códigos servem como material de estudo e prática para reforçar os conceitos abordados na disciplina.
+
+## ☕︎ Tecnologia Utilizadas
+
+- Oracle VirtualBox;
+- Ubuntu (64-bit);
+- Code::Blocks.
+
+## ☕︎ Como Usar
+
+1. Clone o repositório para o seu computador:
+
+   ```bash
+   git clone https://github.com/MariaCampanaP/Sistemas-Operacionais.git
+   ```
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=542d17&reversal=false&section=footer"/>
+
