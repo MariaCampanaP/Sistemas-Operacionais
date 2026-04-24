@@ -15,6 +15,7 @@ Este repositório reúne implementações de conceitos fundamentais de **Sistema
 - *Identificação de processos (pai e filho)*
 - *Execução de programas externos com exec()*
 - *Substituição de processos (process replacement)*
+- *Trabalho sobre Threads*
 
 # ☕︎ Objetivo
 
