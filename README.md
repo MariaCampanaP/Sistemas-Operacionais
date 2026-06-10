@@ -16,6 +16,7 @@ Este repositório reúne implementações de conceitos fundamentais de **Sistema
 - *Execução de programas externos com exec()*
 - *Substituição de processos (process replacement)*
 - *Trabalho sobre Threads*
+- *FreeRtos*
 
 # ☕︎ Objetivo
 
